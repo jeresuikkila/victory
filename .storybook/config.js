@@ -21,6 +21,7 @@ addDecorator(storyWrapper);
 
 const loadStories = () => {
   require("../stories/victory-area");
+  require("../stories/themes");
   require("../stories/victory-axis");
   require("../stories/victory-bar");
   require("../stories/victory-box-plot");
